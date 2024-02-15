@@ -6,9 +6,10 @@ Latest YouTube videos
 ### Language and tools
 ![C++](https://img.shields.io/badge/-C++-09283E?style=for-the-badge&logo=C%2b%2b&logoColor=5B418A)
 ![Git](https://img.shields.io/badge/-Git-09283E?style=for-the-badge&logo=Git&logoColor=5B418A)
-![CMake](https://img.shields.io/badge/-CMake-09283E?style=for-the-badge&logo=CMake&logoColor=8DD35F)
+![CMake](https://img.shields.io/badge/-CMake-09283E?style=for-the-badge&logo=CMake&logoColor=FFE680)
+![Qt](https://img.shields.io/badge/-Qt-09283E?style=for-the-badge&logo=Qt&logoColor=40C951)
+![VS](https://img.shields.io/badge/-Qt-09283E?style=for-the-badge&logo=VS&logoColor=40C951)
 ![ANTLR](https://img.shields.io/badge/-ANTLR-09283E?style=for-the-badge&logo=ANTLR&logoColor=80B3FF)
-![Bash](https://img.shields.io/badge/-Bash-09283E?style=for-the-badge&logo=Bash&logoColor=FFE680)
 ![Protobuf](https://img.shields.io/badge/-Protobuf-09283E?style=for-the-badge&logo=Protobuf&logoColor=2F2F2F)
 
 ### Follow me
